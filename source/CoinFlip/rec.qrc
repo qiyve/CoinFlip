@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Camera Roll/BackButton.png</file>
+        <file>Camera Roll/BackButtonSelected.png</file>
+        <file>Camera Roll/BoardNode.png</file>
+        <file>Camera Roll/Coin0001.png</file>
+        <file>Camera Roll/Coin0002.png</file>
+        <file>Camera Roll/Coin0003.png</file>
+        <file>Camera Roll/Coin0004.png</file>
+        <file>Camera Roll/Coin0005.png</file>
+        <file>Camera Roll/Coin0006.png</file>
+        <file>Camera Roll/Coin0007.png</file>
+        <file>Camera Roll/Coin0008.png</file>
+        <file>Camera Roll/LevelCompletedDialogBg.png</file>
+        <file>Camera Roll/LevelIcon.png</file>
+        <file>Camera Roll/MenuSceneBg.png</file>
+        <file>Camera Roll/MenuSceneStartButton.png</file>
+        <file>Camera Roll/OtherSceneBg.png</file>
+        <file>Camera Roll/PlayLevelSceneBg.png</file>
+        <file>Camera Roll/Title.png</file>
+        <file>Camera Roll/TapButtonSound.wav</file>
+        <file>Camera Roll/LevelWinSound.wav</file>
+        <file>Camera Roll/BackButtonSound.wav</file>
+        <file>Camera Roll/ConFlipSound.wav</file>
+    </qresource>
+</RCC>
